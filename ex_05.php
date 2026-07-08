@@ -1,0 +1,9 @@
+<?php
+
+function analisartexto($texto){
+
+}
+
+
+
+?>

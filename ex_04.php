@@ -18,3 +18,5 @@ function gerarSenha($quantidade){
 }
 
 echo gerarSenha(8);
+
+?>
